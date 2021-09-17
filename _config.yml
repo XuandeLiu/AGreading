@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Algebraic Geometry Seminar
-  tagline: @Stony Brook University
+  tagline: "@"Stony Brook University
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
