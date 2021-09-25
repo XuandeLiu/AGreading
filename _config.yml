@@ -12,7 +12,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Algebraic Geometry Seminar
+  title: Algebraic Geometry Reading Seminar: Intersection Theory
   tagline: Stony Brook University
   date_format: "%b %-d, %Y"
   style: black
